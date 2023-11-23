@@ -1,13 +1,10 @@
 <div align="center">
   <h2>Hi there, I'm Dunal Pasindu 👋</h2>
   
-  <p>
+<p>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&color=F7F7F7&random=false&width=435&lines=Your+Text+Here&lineHeight=50&lineHeight=1" alt="Matrix Animation" />
-
-
-
-  </a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&color=F7F7F7&random=false&width=435&lines=WELCOME+TO+MY+GIT+HUB.;FULL+STACK+DEVELOPER.;IT+UNDERGRADUATE+AT+SLIIT.;TECH+ENTHUSIAST." alt="Typing SVG" />
+    </a>
   </p>
 </div>
 
