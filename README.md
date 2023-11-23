@@ -33,6 +33,6 @@ Explore my skills across different technologies:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dunal-pasindu-659327275/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/dunal_pasindu"><img src="https://i.pinimg.com/736x/2b/a7/17/2ba717ac010d3b9f8d26e9db4da291b8.jpg"/></a>
+  <a href="https://twitter.com/dunal_pasindu"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
   <a href="https://www.instagram.com/dunal_pasindu/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
