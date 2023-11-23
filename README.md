@@ -32,7 +32,7 @@ Explore my skills across different technologies:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dunal-pasindu/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/dunal-pasindu-659327275/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/dunal_pasindu"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
   <a href="https://www.instagram.com/dunal_pasindu/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
