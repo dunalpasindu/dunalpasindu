@@ -30,3 +30,9 @@ Explore my skills across different technologies:
 <p align="center">
   Let's connect and build amazing things together! 🚀
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dunalpasindu/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/dunalpasindu"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://www.instagram.com/dunalpasindu/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+</p>
