@@ -14,11 +14,11 @@ I am Dunal Pasindu, a passionate Full Stack Developer based in Colombo, Sri Lank
 
 ## 💻 Tech Stack
 Explore my skills across different technologies:
-- Frontend: ![HTML](https://skills.thijs.gg/icons?i=html) ![CSS](https://skills.thijs.gg/icons?i=css) ![JavaScript](https://skills.thijs.gg/icons?i=js) ![PHP](https://skills.thijs.gg/icons?i=php)</br>
-- Backend: ![C](https://skills.thijs.gg/icons?i=c) ![C++](https://skills.thijs.gg/icons?i=cpp) ![Python](https://skills.thijs.gg/icons?i=py) ![Java](https://skills.thijs.gg/icons?i=java) ![Kotlin](https://skills.thijs.gg/icons?i=kotlin)</br>
-- Databases: ![MySQL](https://skills.thijs.gg/icons?i=mysql) ![SQLite](https://skills.thijs.gg/icons?i=sqlite) ![MongoDB](https://skills.thijs.gg/icons?i=mongodb)</br>
-- Full Stack: ![Express](https://skills.thijs.gg/icons?i=express) ![React](https://skills.thijs.gg/icons?i=react) ![Node.js](https://skills.thijs.gg/icons?i=nodejs)</br>
-- Tools: ![Visual Studio](https://skills.thijs.gg/icons?i=visualstudio) ![VS Code](https://skills.thijs.gg/icons?i=vscode) ![Android Studio](https://skills.thijs.gg/icons?i=androidstudio) ![Git](https://skills.thijs.gg/icons?i=git) ![Figma](https://skills.thijs.gg/icons?i=figma) ![Eclipse](https://skills.thijs.gg/icons?i=eclipse) ![Postman](https://skills.thijs.gg/icons?i=postman) 
+- **Frontend**: HTML, CSS, JavaScript, PHP
+- **Backend**: C, C++, Python, Java, Kotlin
+- **Databases**: MySQL, SQLite, MongoDB
+- **Full Stack**: Express, React, Node.js
+- **Tools**: Visual Studio, VS Code, Android Studio, Git, Figma, Eclipse, Postman
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dunalpasindu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
