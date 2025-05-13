@@ -15,10 +15,10 @@ I am Dunal Pasindu, a passionate Full Stack Developer based in Colombo, Sri Lank
 ## 💻 Tech Stack
 Explore my skills across different technologies:
 - **Frontend**: HTML, CSS, JavaScript, PHP
-- **Backend**: C, C++, Python, Java, Kotlin
-- **Databases**: MySQL, SQLite, MongoDB
-- **Full Stack**: Express, React, Node.js
-- **Tools**: Visual Studio, VS Code, Android Studio, Git, Figma, Eclipse, Postman
+- **Backend**: C, C++, Python, Java, Kotlin, Node.js
+- **Databases**: MySQL, SQLite, MongoDB, Firebase
+- **Full Stack**: MERN, Express, React, Node.js
+- **Tools**: Visual Studio, VS Code, Android Studio, Intellij Idea, Git, Figma, Eclipse, Postman, Mongodb Compass
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dunalpasindu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
