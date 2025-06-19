@@ -32,7 +32,7 @@ Explore my skills across different technologies:
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/dunalherath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://linkedin.com/in/dunalherath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="https://x.com/dunalherath/"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
   <a href="https://instagram.com/dunal_herath/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
