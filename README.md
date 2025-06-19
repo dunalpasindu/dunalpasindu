@@ -33,6 +33,6 @@ Explore my skills across different technologies:
 
 <p align="center">
   <a href="www.linkedin.com/in/dunalherath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://x.com/dunalherath/"><img src="https://play-lh.googleusercontent.com/8n5zHCREwYskRGjkZWfg057SV-5hPCNEYuOwoadDI6h9dGIdQRVMwUAU35IthVc9oD8"/></a>
+  <a href="https://x.com/dunalherath/"><img src="https://img.icons8.com/?size=100&id=ud9VVQzOPag8&format=png&color=000000"/></a>
   <a href="https://instagram.com/dunal_herath/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
