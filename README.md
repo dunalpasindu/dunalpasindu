@@ -10,7 +10,7 @@
 
 
 ## 💫 About Me
-I am Dunal Pasindu, a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pursuing a BSc (Hons.) in Information Technology, specializing in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
+I am Dunal Herath, a passionate Full Stack Developer based in Colombo, Sri Lanka. Currently pursuing a BSc (Hons.) in Information Technology, specializing in Information Technology at Sri Lanka Institute of Information Technology (SLIIT).
 
 ## 💻 Tech Stack
 Explore my skills across different technologies:
